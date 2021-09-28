@@ -30,7 +30,7 @@ Partial Class Loginform
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
+        Me.ClearButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -106,17 +106,17 @@ Partial Class Loginform
         Me.Button2.Text = "Cancel"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'Button3
+        'ClearButton
         '
-        Me.Button3.Font = New System.Drawing.Font("MV Boli", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(594, 301)
-        Me.Button3.Margin = New System.Windows.Forms.Padding(4)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(110, 37)
-        Me.Button3.TabIndex = 20
-        Me.Button3.Text = "Clear"
-        Me.Button3.UseVisualStyleBackColor = True
-        Me.Button3.Visible = False
+        Me.ClearButton.Font = New System.Drawing.Font("MV Boli", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.ClearButton.Location = New System.Drawing.Point(594, 301)
+        Me.ClearButton.Margin = New System.Windows.Forms.Padding(4)
+        Me.ClearButton.Name = "ClearButton"
+        Me.ClearButton.Size = New System.Drawing.Size(110, 37)
+        Me.ClearButton.TabIndex = 20
+        Me.ClearButton.Text = "Clear"
+        Me.ClearButton.UseVisualStyleBackColor = True
+        Me.ClearButton.Visible = False
         '
         'Loginform
         '
@@ -125,7 +125,7 @@ Partial Class Loginform
         Me.BackgroundImage = Global.VipersAcademy.My.Resources.Resources.International_Book_Day_Instagram_Post__7_
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(733, 497)
-        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.ClearButton)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label3)
@@ -150,5 +150,5 @@ Partial Class Loginform
     Friend WithEvents Label3 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Button2 As Button
-    Friend WithEvents Button3 As Button
+    Friend WithEvents ClearButton As Button
 End Class
