@@ -65,3 +65,20 @@ C:\Users\user\Documents\SEM 5\VB.Net\Project\ProjectDemoCRS1.1\ProjectDemoCRS\ob
 C:\Users\user\Documents\SEM 5\VB.Net\Project\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.exe
 C:\Users\user\Documents\SEM 5\VB.Net\Project\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.xml
 C:\Users\user\Documents\SEM 5\VB.Net\Project\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.pdb
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\bin\Debug\ProjectDemoCRS.exe.config
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\bin\Debug\ProjectDemoCRS.exe
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\bin\Debug\ProjectDemoCRS.pdb
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\bin\Debug\ProjectDemoCRS.xml
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.vbproj.AssemblyReference.cache
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.CrsMainForm.resources
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.LoginForm.resources
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.Resources.resources
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.StudentGroupForm.resources
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.StudentGroupListForm.resources
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.StudentForm.resources
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.StudentListForm.resources
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.vbproj.GenerateResource.cache
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.vbproj.CoreCompileInputs.cache
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.exe
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.xml
+C:\VBPROJECT\ProjectDemoCRS\ProjectDemoCRS1.1\ProjectDemoCRS\obj\Debug\ProjectDemoCRS.pdb

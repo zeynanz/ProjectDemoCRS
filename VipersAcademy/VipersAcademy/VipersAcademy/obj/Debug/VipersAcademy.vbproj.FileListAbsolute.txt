@@ -1,0 +1,14 @@
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\bin\Debug\Login.accdb
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\bin\Debug\VipersAcademy.exe.config
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\bin\Debug\VipersAcademy.exe
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\bin\Debug\VipersAcademy.pdb
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\bin\Debug\VipersAcademy.xml
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.vbproj.AssemblyReference.cache
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.Resources.resources
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.vbproj.GenerateResource.cache
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.vbproj.CoreCompileInputs.cache
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.exe
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.xml
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.pdb
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.Loginform.resources
+C:\VBPROJECT\ProjectDemoCRS\VipersAcademy\VipersAcademy\VipersAcademy\obj\Debug\VipersAcademy.Form1.resources
