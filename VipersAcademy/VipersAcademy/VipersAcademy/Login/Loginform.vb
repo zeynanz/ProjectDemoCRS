@@ -25,5 +25,4 @@ Public Class Loginform
             End If
         End If
     End Sub
-
 End Class

@@ -121,4 +121,16 @@
   <data name="WhatsApp Image 2021-09-29 at 01.47.25" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WhatsApp Image 2021-09-29 at 01.47.25.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="International Book Day Instagram Post (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\International Book Day Instagram Post (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="International Book Day Instagram Post" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\International Book Day Instagram Post.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="International Book Day Instagram Post (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\International Book Day Instagram Post (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="International Book Day Instagram Post (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\International Book Day Instagram Post (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

@@ -22,6 +22,31 @@ VipersAcademy
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:VipersAcademy.My.Resources.Resources.International_Book_Day_Instagram_Post">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VipersAcademy.My.Resources.Resources.International_Book_Day_Instagram_Post__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VipersAcademy.My.Resources.Resources.International_Book_Day_Instagram_Post__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VipersAcademy.My.Resources.Resources.International_Book_Day_Instagram_Post__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VipersAcademy.My.Resources.Resources.WhatsApp_Image_2021_09_29_at_01_47_25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="T:VipersAcademy.LoginDataSet">
 <summary>
 Represents a strongly typed in-memory cache of data.
