@@ -10,3 +10,15 @@ C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\De
 C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.exe
 C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.xml
 C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.pdb
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.exe.config
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.exe
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.pdb
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.xml
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.vbproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.Form1.resources
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.Resources.resources
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.exe
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.xml
+C:\Users\HP\Desktop\LAST SEM\vb.net\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.pdb
