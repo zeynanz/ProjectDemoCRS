@@ -1,0 +1,12 @@
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.exe.config
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.exe
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.pdb
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\bin\Debug\LiliAfDesign.xml
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.vbproj.AssemblyReference.cache
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.Form1.resources
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.Resources.resources
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.vbproj.GenerateResource.cache
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.vbproj.CoreCompileInputs.cache
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.exe
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.xml
+C:\UniServerZ\www\ProjectDemoCRS\VipersAcademy\VipersAcademy\LiliAfDesign\obj\Debug\LiliAfDesign.pdb

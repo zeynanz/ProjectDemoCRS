@@ -137,6 +137,7 @@ Partial Class Loginform
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Loginform"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Vipers Academy"
         Me.ResumeLayout(False)
         Me.PerformLayout()
